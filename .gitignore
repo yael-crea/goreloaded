@@ -1,0 +1,14 @@
+# Fichiers générés localement
+work/
+outputs/
+
+# Binaires Go
+*.exe
+compter-mots
+
+# Fichiers des éditeurs et du système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
